@@ -22,7 +22,7 @@ const translations = {
         'nav.book': 'Book Appointment',
 
         // Hero Section
-        'hero.title': 'Octopus Eye Care Consultatnt',
+        'hero.title': 'Octopus Eye Care Consultant',
         'hero.subtitle': 'Comprehensive Eye Care Services',
         'hero.description': 'Professional eye care with advanced 8-layer eye checkup system. Get accurate diagnosis and proper guidance from our super specialist doctors.',
         'hero.cta': 'Book Your Free Appointment',
@@ -46,7 +46,7 @@ const translations = {
         'footer.phone': 'Phone',
         'footer.email': 'Email',
         'footer.hours': 'Working Hours',
-        'footer.copyright': '© 2024 Octopus Eye Care Hospital. All rights reserved.',
+        'footer.copyright': '© 2024 Octopus Eye Care Cosultant. All rights reserved.',
 
         // Common
         'learn.more': 'Learn More',
