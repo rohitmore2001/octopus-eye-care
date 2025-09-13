@@ -48,7 +48,7 @@ const translations = {
         'footer.hours': 'Working Hours',
         'footer.copyright': '© 2024 Octopus Eye Care Cosultant. All rights reserved.',
 
-        // Common
+        //  Common
         'learn.more': 'Learn More',
         'book.now': 'Book Now',
         'get.started': 'Get Started',
