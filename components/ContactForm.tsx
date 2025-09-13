@@ -7,7 +7,7 @@ import { FaUser, FaEnvelope, FaPhone, FaComment, FaPaperPlane } from 'react-icon
 export default function ContactForm() {
     const { language } = useLanguage()
     const [formData, setFormData] = useState({
-        name: '',
+        name: ' ',
         email: '',
         phone: '',
         subject: '',
