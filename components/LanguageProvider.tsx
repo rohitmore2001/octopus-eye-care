@@ -42,7 +42,7 @@ const translations = {
         'services.9': 'Accurate Diagnosis & Proper Guidance',
 
         // Footer
-        'footer.address': 'Address',
+        'footer.address': 'Address' ,
         'footer.phone': 'Phone',
         'footer.email': 'Email',
         'footer.hours': 'Working Hours',
